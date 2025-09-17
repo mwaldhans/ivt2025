@@ -1,7 +1,7 @@
 # 🚀 Název Našeho Geniálního Projektu
 ### Aneb pokus o zápočet z IVT semináře
 
-Vítejte taky v repozitáři, kde se sny... no, minimálně se tu něco odevzdává. Pokud hledáte elegantní, optimalizovaný a bezchybný kód, jste tu **skoro** správně.
+Vítejte v repozitáři, kde se sny... no, minimálně se tu něco odevzdává. Pokud hledáte elegantní, optimalizovaný a bezchybný kód, jste tu **skoro** správně.
 
 ## O co tady vlastně jde? 🤔
 Oficiálním cílem tohoto projektu je `[Zde popište skutečný cíl vašeho projektu, např. vytvořit webovou aplikaci pro spolužáky]`.
