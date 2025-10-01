@@ -49,7 +49,7 @@ Naším skutečným cílem je přežít tento seminář bez psychické újmy, na
     ```bash
     [Příkaz pro spuštění, např. python main.py]
     ```
-5.  Držte si palce.
+5.  Držte si palec.
 
 ***
 ## Jak přispět do tohoto veledíla
@@ -63,5 +63,3 @@ Našli jste chybu? Gratulujeme! Můžete buď dělat, že neexistuje, nebo vytvo
 ***
 ## ⚠️ Důležité varování
 Použití na vlastní nebezpečí. Autoři nenesou žádnou odpovědnost za ztracená data, ztracený čas ani za existenciální krize způsobené čtením tohoto kódu.
-
-test test test test
