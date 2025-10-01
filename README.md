@@ -44,7 +44,7 @@ Naším skutečným cílem je přežít tento seminář bez psychické újmy, na
     ```bash
     [Příkaz pro spuštění, např. python main.py]
     ```
-5.  Držte si palce.
+5.  Držte si palec.
 
 ***
 ## Jak přispět do tohoto veledíla
