@@ -15,12 +15,7 @@ Naším skutečným cílem je přežít tento seminář bez psychické újmy, na
 * **`[Jméno 3]`** - Morální podpora a expert na hledání řešení na Stack Overflow
 
 ***
-## Aktuální stav projektu
-* [ ] Plánování
-* [x] Psaní kódu, co vypadá, že funguje
-* [ ] Hledání chyb, které jsme právě vytvořili
-* [ ] Panika před deadlinem
-* [ ] Odevzdání
+
 
 ***
 ## Co to (ne)umí?
@@ -49,7 +44,7 @@ Naším skutečným cílem je přežít tento seminář bez psychické újmy, na
     ```bash
     [Příkaz pro spuštění, např. python main.py]
     ```
-5.  Držte si palce.
+5.  Držte si palec.
 
 ***
 ## Jak přispět do tohoto veledíla
