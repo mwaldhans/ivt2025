@@ -11,7 +11,7 @@ Naším skutečným cílem je přežít tento seminář bez psychické újmy, na
 ***
 ## Kdo za tímto chaosem stojí? 🧑‍💻
 * **`[Jméno 1]`** - Vrchní Prokrastinátor & Master of `git push --force`
-* **`[Marek Waldhans2]`** - Specialista na komentáře typu `//TODO: Tohle celé předělat`
+* **`[Marek Waldhans branch]`** - Specialista na komentáře typu `//TODO: Tohle celé předělat`
 * **`[Jméno 3]`** - Morální podpora a expert na hledání řešení na Stack Overflow
 
 ***
