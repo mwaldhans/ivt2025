@@ -1,3 +1,4 @@
+# 🚀 Název Našeho Geniálního Projekt
 ### Aneb pokus o zápočet z IVT semináře
 
 Vítejte v repozitáři, kde se sny... no, minimálně se tu něco odevzdává. Pokud hledáte elegantní, optimalizovaný a bezchybný kód, jste tu **skoro** správně.
